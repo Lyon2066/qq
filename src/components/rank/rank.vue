@@ -1,6 +1,6 @@
 <template>
   <div class="rank">
-    <div>Rank</div>
+    <div>Rankcsasdasdfasdf</div>
     <test></test>
   </div>
 </template>
